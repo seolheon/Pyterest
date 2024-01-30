@@ -1,2 +1,2 @@
 # Pyterest
-pinterest image downloader / scarper 
+pinterest image downloader / scraper 
