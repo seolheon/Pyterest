@@ -1,0 +1,12 @@
+# requirements.txt
+
+bs4
+requests
+selenium
+ttkbootstrap
+requests
+pyinstaller
+
+
+
+
